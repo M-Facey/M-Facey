@@ -1,6 +1,6 @@
 ## Hey There :wave:
 
-### :grin: How I Am...
+### :grin: Who I Am...
 
 - :briefcase: Working as frontend developer at Orba
 - :seedling: Currently looking in NextJS, Springboot and PostgreSQL (... and probably Golang)
